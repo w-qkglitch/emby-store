@@ -1,21 +1,15 @@
-```
 # StreamPanel
 
-<p align="center">
-  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🎬-StreamPanel-6366f1?style=for-the-badge" height="40"/>
-</p>
+**Emby 服务端的高级伴侣：会员商店 · 在线收款 · 自动化运营**
 
-<h3 align="center">Emby 服务端的高级伴侣：会员商店 · 在线收款 · 自动化运营</h3>
+[![Telegram群组](https://img.shields.io/badge/Telegram-群组-blue)](https://t.me/emby_ying)
+[![WIKI文档](https://img.shields.io/badge/WIKI-文档-2c3e50)](#wiki)
+[![亮点特性](https://img.shields.io/badge/亮点特性-Feature-green)](#功能特性)
+[![快速部署](https://img.shields.io/badge/快速部署-Docker-blue)](#快速开始)
+[![配置说明](https://img.shields.io/badge/配置说明-vars-orange)](#关键环境变量)
+[![安全说明](https://img.shields.io/badge/安全-badge)](#安全说明与已知限制)
+[![许可证](https://img.shields.io/badge/许可证-License)](#license)
 
-<p align="center">
-  <a href="[https://t.me/emby_ying](https://t.me/emby_ying)"><img src="[https://img.shields.io/badge/Telegram-](https://img.shields.io/badge/Telegram-)加入交流群-26A5E4?style=flat-square"/></a>
-  <a href="#"><img src="[https://img.shields.io/badge/WIKI-](https://img.shields.io/badge/WIKI-)文档-2c3e50?style=flat-square"/></a>
-  <a href="#-功能特性"><img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)亮点速览-Features-2980b9?style=flat-square"/></a>
-  <a href="#-快速开始"><img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)快速部署-Deploy-e67e22?style=flat-square"/></a>
-  <a href="#-关键环境变量"><img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)配置说明-Config-8e44ad?style=flat-square"/></a>
-  <a href="#-安全说明与已知限制"><img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)常见问题-FAQ-c0392b?style=flat-square"/></a>
-  <a href="#-license"><img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)许可证-License-34495e?style=flat-square"/></a>
-</p>
 
 ## 📖 项目简介
 
